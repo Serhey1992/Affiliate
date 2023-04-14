@@ -183,6 +183,9 @@ body{
     font-size: 16px;
     line-height: 1.25;
 }
+.arrow-icon{
+    margin-right: 4px;
+}
 .blog-secon-part{
     display: flex;
     justify-content: space-between;
